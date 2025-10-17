@@ -1,0 +1,26 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "21",
+          "name": "Mr. Goldenfold",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/21.jpeg"
+        },
+        {
+          "id": "22",
+          "name": "Birdperson",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/22.jpeg"
+        },
+        {
+          "id": "23",
+          "name": "Squanchy",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/23.jpeg"
+        }
+      ]
+    }
+  }
+}
